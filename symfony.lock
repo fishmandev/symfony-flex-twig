@@ -1,1 +1,11 @@
-[]
+{
+    "doctrine/cache": {
+        "version": "v1.7.1"
+    },
+    "symfony/polyfill-apcu": {
+        "version": "v1.6.0"
+    },
+    "symfony/stopwatch": {
+        "version": "v3.3.13"
+    }
+}
