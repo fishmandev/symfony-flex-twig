@@ -1030,16 +1030,16 @@
         },
         {
             "name": "symfony/routing",
-            "version": "v4.0.4",
+            "version": "v4.0.10",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/routing.git",
-                "reference": "a69bd948700b672e036147762f46749bcae33796"
+                "reference": "e8833b64b139926cbe1610d53722185e55c18e44"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/routing/zipball/a69bd948700b672e036147762f46749bcae33796",
-                "reference": "a69bd948700b672e036147762f46749bcae33796",
+                "url": "https://api.github.com/repos/symfony/routing/zipball/e8833b64b139926cbe1610d53722185e55c18e44",
+                "reference": "e8833b64b139926cbe1610d53722185e55c18e44",
                 "shasum": ""
             },
             "require": {
@@ -1104,7 +1104,7 @@
                 "uri",
                 "url"
             ],
-            "time": "2018-01-16T18:04:12+00:00"
+            "time": "2018-05-16T14:21:07+00:00"
         },
         {
             "name": "symfony/twig-bridge",
